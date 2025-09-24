@@ -14,4 +14,4 @@ function sumAllPrime(number) {
 
   return sum;
 }
-console.log(sumAllPrime(977));
+console.log(sumAllPrime(900));
