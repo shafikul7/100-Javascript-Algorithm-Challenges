@@ -12,3 +12,6 @@ var isPalindrome = function(x) {
     }
 };
 
+console.log(isPalindrome(211))
+console.log(isPalindrome(121))
+
